@@ -1,0 +1,34 @@
+
+Mobile view:
+
+- What is CHC? image 
+no horizontal padding 
+vertical margins
+
+- Revisar resolución o poner imagen reducida para mobile
+
+Container:
+
+- Quitar margenes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -8,11 +8,13 @@ import { WhatisComponent } from './components/whatis/whatis.component';
 import { ClassificationComponent } from './components/classification/classification.component';
 import { TotaltokensComponent } from './components/totaltokens/totaltokens.component';
 import { WhoComponent } from './components/who/who.component';
+import { CustomNavComponent } from './components/customNav/customNav.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
+    CustomNavComponent,
     WhatisComponent,
     ClassificationComponent,
     TotaltokensComponent,

@@ -1,0 +1,14 @@
+.nav-img {
+    height: 16vh;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.sticky {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
